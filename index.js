@@ -90,8 +90,7 @@ async function gameLOOP(){
 };
 
 
-
-$(document).keypress(function() {
+$(document).click(function() {
 if (gameON == 0){
   gameLOOP();}
   }

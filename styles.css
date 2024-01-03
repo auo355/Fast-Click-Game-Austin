@@ -28,7 +28,7 @@ body {
 
 
 .row{
-  display: inline-block;
+  display: flex;
 }
 
 

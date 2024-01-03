@@ -35,8 +35,8 @@ body {
 .btn {
   margin: 25px;
   display: inline-block;
-  height: 250px;
-  width: 250px;
+  height: 240px;
+  width: 240px;
   border: 0px solid black;
   border-radius: 20%;
 }

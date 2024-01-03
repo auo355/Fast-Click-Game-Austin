@@ -20,13 +20,17 @@ body {
 }
 
 
-
 .container {
   display: block;
   width: 50%;
   margin: auto;
-
 }
+
+
+.row{
+  display: inline-block;
+}
+
 
 .btn {
   margin: 25px;
